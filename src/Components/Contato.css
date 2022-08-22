@@ -1,0 +1,9 @@
+.component_de_contato{
+    background-color: aqua;
+    color: black;
+    margin: 20px 20;
+    border-radius: 10px;
+    margin-left: 20px;
+    justify-content: center;
+    flex-direction: row;
+}
